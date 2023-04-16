@@ -1,0 +1,349 @@
+@media screen and (max-width: 690px) {
+
+.rasm {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 35px;
+	margin-top: 10px;
+}
+.menyu ul li {
+	display: block;
+	margin-top: 15px;
+	padding-left: 10px;
+}
+.menyu ul li a {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 25px;
+}
+.header__logo {
+	margin-bottom: ;
+}
+
+.what__icons {
+	display: flex;
+	margin-bottom: 40px;
+	flex-wrap: wrap;
+}
+.what__icons .wrapper {
+	flex: 1 0 25%;
+	min-width: 250px;
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+
+
+.ramka .ramka__ramka {
+	border: none;
+	padding: 30px;
+	margin: 15px;
+}
+.ramka .ramka__ramka h2 {
+	font-size: 50px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	line-height: 60px;
+}
+
+
+.process .process__title {
+	text-align: center;
+	width: 90%;
+	margin-bottom: 25px;
+}
+.process .rasm__ramka {
+	display: none;
+}
+.process .process_steps {
+	display: block;
+	padding: 10px;
+}
+.process .process_steps .step h2 {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 30px;
+	color: grey;
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.process .process_steps .step h2 span {
+	color: #fc635e;
+}
+.process .process_steps .step p {
+	font-size: 20px;
+	color: grey;
+	letter-spacing: 1px;
+	line-height: 22px;
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+
+
+
+.wedo .wedo__flex {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+}
+.wedo .wedo__flex .item {
+	flex: 1 1 80%;
+	margin: 5px;
+}
+.wedo .wedo__flex .flex__text {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.wedo .wedo__flex .flex__text h2 {
+	font-size: 30px;
+	color: #fc635e;
+	text-transform: uppercase;
+	border-left: none;
+	padding-left: 15px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+
+
+.wedo2 .wedo__flex {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+}
+.wedo2 .wedo__flex img {
+	max-width: 100%;
+	max-height: 100%;
+}
+.wedo2 .wedo__flex .item {
+	flex: 1 1 80%;
+	margin: 5px;
+}
+.wedo2 .wedo__flex .flex__text {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.wedo2 .wedo__flex .flex__text h2 {
+	font-size: 30px;
+	color: #fc635e;
+	text-transform: uppercase;
+	border-right: none;
+	padding-left: ;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+.wedo2 .wedo__flex .flex__text p {
+	text-align: center;
+}
+
+
+
+.wedo3 .wedo__flex {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+}
+.wedo3 .wedo__flex img {
+	max-width: 100%;
+	max-height: 100%;
+}
+.wedo3 .wedo__flex .item {
+	flex: 1 1 80%;
+	margin: 5px;
+}
+.wedo3 .wedo__flex .flex__text {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.wedo3 .wedo__flex .flex__text h2 {
+	font-size: 30px;
+	color: #fc635e;
+	text-transform: uppercase;
+	border-left: none;
+	padding-left: 15px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+
+
+
+
+
+.portfolio {
+	width: 100%;
+	min-height: auto;
+	padding: 10px;
+}
+.portfolio .portfolio__title {
+	margin-top: 20px;
+}
+.portfolio .portfolio__title h2 {
+	
+}
+.portfolio .wrap {
+	width: 90%;
+	margin: 0 auto;
+}
+.portfolio .wrap .portfolio__knopka {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	padding: 10px;
+	font-size: 22px;
+	margin-bottom: 20px;
+}
+.portfolio .wrap .portfolio__knopka button {
+	font-size: 22px;
+	text-transform: uppercase;
+	color: #fc635e;
+	background-color: unset;
+}
+.portfolio .wrap .portfolio__flex {
+	display: flex;
+	flex-direction: column;
+	padding: 10px;
+}
+.portfolio .wrap .portfolio__flex .flex__wrap {
+	flex: 1 1 98%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.portfolio .wrap .portfolio__flex .flex__wrap .rasm1 {
+	flex: 1 1 98%;
+	padding: 3px;
+}
+.portfolio .wrap .portfolio__flex .flex__wrap .rasm2 {
+	flex: 1 1 48%;
+	padding: 3px;
+}
+.portfolio .wrap .portfolio__flex .flex__wrap .rasm3 {
+	flex: 1 1 48%;
+	padding: 3px;
+}
+
+.portfolio .wrap .portfolio__flex .flex__wrap .rasm1__1 {
+	flex: 1 1 48%;
+	padding: 3px;
+}
+.portfolio .wrap .portfolio__flex .flex__wrap .rasm2__2 {
+	flex: 1 1 48%;
+	padding: 3px;
+}
+.portfolio .wrap .portfolio__flex .flex__wrap .rasm3__3 {
+	flex: 1 1 98%;
+	padding: 3px;
+}
+
+.portfolio .wrap .portfolio__flex .flex__wrap img {
+	width: 100%;
+	height: 100%;
+	object-position: center;
+	object-fit: cover;
+}
+
+.portfolio .portfolio__link {
+	margin-top: 30px;
+	text-align: center;
+	padding: 10px;
+}
+.portfolio .portfolio__link a {
+	display: inline-block;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 22px;
+	color: #fff;
+	background-color:  #fc635e;
+	border: 2px solid #fc635e;
+	border-radius: 8px;
+	padding: 14px 20px;
+	letter-spacing: 1px;
+}
+.portfolio .portfolio__link a:hover {
+	background-color:  inherit;
+	color: #fc635e;
+}
+.portfolio .portfolio__futer .portfolio__btn {
+	text-align: center;
+	margin-top: 25px;
+}
+.portfolio .portfolio__futer .portfolio__btn a {
+	display: inline-block;
+	font-size: 28px;
+	color: #fc635e;
+	border-radius: 50%;
+	border: 1px solid #fc635e;
+	padding: 12px 20px;
+}
+.portfolio .portfolio__futer .portfolio__btn a:hover {
+	background-color: #fc635e;
+	color: #fff;
+}
+
+
+
+.team {
+	
+}
+.team .team__title {
+	margin-top: 20px;
+	text-align: center;
+	padding-top: 50px;
+}
+.team .team__title h2 {
+	
+}
+.team .team__title h2 span {
+	
+}
+.team .team__flex {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 30px;
+}
+.team .team__flex .flex {
+	padding: 10px;
+	flex: 1 1 75%;
+	text-align: center;
+}
+.team .team__flex .flex .flex__name {
+	text-align: center;
+	margin-top: 20px;
+}
+.team .team__flex .flex .flex__name h3 {
+	display: inline-block;
+	font-size: 30px;
+	color: #fc635e;
+}
+.team .team__flex .flex .flex__name h3 span {
+	color: #333;
+}
+.team .team__flex .flex .flex__name p {
+	
+}
+.team .team__flex .flex .our__icons {
+
+}
+.team .team__flex .flex .our__icons img {
+	
+}
+
+
+
+
+
+
+
+
+}
